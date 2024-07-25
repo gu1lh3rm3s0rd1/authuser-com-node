@@ -22,13 +22,10 @@ Inclui funcionalidades para registro de usuários, login, autenticação baseada
 1. Clone o repositório:
 
 ```bash
-   git clone https://github.com/seuusuario/seu-repo.git
+   git clone https://github.com/gu1lh3rm3s0rd1/authuser-com-node.git
 ```
-2. Navegue até o diretório do projeto:
+2. Navegue até o diretório do projeto.
 
-```bash
-   cd seu-repo
-```
 3. Instale os pacotes necessários:
 
 ```bash
@@ -40,6 +37,8 @@ Inclui funcionalidades para registro de usuários, login, autenticação baseada
    MONGODB_URI=sua_string_de_conexão_mongodb
    SECRET=seu_segredo_jwt
 ```
+
+O secret pode ser qualquer string. Ex: DFAG44FDS4F54F4SF4S521SFEHY@$@FDGhjfhs884ada. Ele precisa apenas existir para o sistema enxergar ele e fucionar adequadamente.
 
 ## Uso
 
